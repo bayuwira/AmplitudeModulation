@@ -1,3 +1,8 @@
+''' Link Video Youtube  : https://youtu.be/8JGQStmW3xU 
+    Link Github         : https://github.com/bayuwira/AmplitudeModulation
+'''
+
+
 from tkinter import * #GUI
 from pygame import mixer #load audio, play audio
 import numpy as np
